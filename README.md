@@ -1,5 +1,7 @@
 # orzata / mandorla
 
+[![Join the chat at https://gitter.im/orzata/mandorla](https://badges.gitter.im/orzata/mandorla.svg)](https://gitter.im/orzata/mandorla?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![npm version](https://badge.fury.io/js/mandorla.svg)](https://badge.fury.io/js/mandorla)
 [![Dependency Status](https://gemnasium.com/badges/2b2512e94abf8999515ccfd63747d3da.svg)](https://gemnasium.com/0209d5a56cf40e49d264be7077197eb1)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/orzata/mandorla/blob/develop/LICENSE)
